@@ -12,5 +12,3 @@ s = """
 </html>"""
 
 
-for i in s:
-    if s.count("Click"):
